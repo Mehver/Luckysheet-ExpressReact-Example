@@ -21,11 +21,11 @@ npm install gulp -g
 npm start
 ```
 
-### Development
+### Frontend Development
 ```bash
 npm run react
 ```
-### Package
+### Frontend Compile
 ```bash
 npm run build
 ```
