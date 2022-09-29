@@ -8,7 +8,7 @@
 ## 使用和开发
 
 ### 环境
-[Node.js](https://nodejs.org/en/) Version v16.16.0
+[Node.js](https://nodejs.org/en/) v16.16.0
 
 ### 安装依赖
 ```bash
