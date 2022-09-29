@@ -3,7 +3,7 @@
 English| [简体中文](./README-zh.md)
 
 ## Introduction
-A simple client with Express.js implementation for [Luckysheet](https://github.com/mengshukeji/Luckysheet). Can provide some design ideas. This project is a semi-finished byproduct of another project of mine, so a little extra functional design is mixed in. I rarely contact full stack development, be tolerant if there are mistakes plz.
+A simple client with Express.js implementation for [Luckysheet](https://github.com/dream-num/Luckysheet). Can provide some design ideas. This project is a semi-finished byproduct of another project of mine, so a little extra functional design is mixed in. I rarely contact full stack development, be tolerant if there are mistakes plz.
 
 ## Usage & Development
 
@@ -32,7 +32,7 @@ npm run build
 
 ## Reference
 
-- https://github.com/mengshukeji/Luckysheet
+- https://github.com/dream-num/Luckysheet
 
 ## License
 
