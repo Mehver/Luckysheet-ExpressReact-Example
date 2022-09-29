@@ -36,6 +36,6 @@ npm run build
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+MPL 2.0
 
-Copyright (c) 2020-present, mengshukeji
+MIT Copyright (c) 2020-present, mengshukeji
