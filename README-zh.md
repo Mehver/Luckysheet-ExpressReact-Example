@@ -33,7 +33,7 @@ npm run build
 
 ## 引用
 
-- https://github.com/mengshukeji/Luckysheet
+- https://github.com/dream-num/Luckysheet
 
 ## 版权信息
 
