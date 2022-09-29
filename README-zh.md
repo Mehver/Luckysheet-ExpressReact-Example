@@ -21,12 +21,12 @@ npm install gulp -g
 npm start
 ```
 
-### 开发
+### 前端开发
 
 ```bash
 npm run react
 ```
-### 打包
+### 前端编译
 ```bash
 npm run build
 ```
