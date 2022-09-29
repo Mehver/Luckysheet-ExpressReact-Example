@@ -8,7 +8,7 @@ A simple client with Express.js implementation for [Luckysheet](https://github.c
 ## Usage & Development
 
 ### Requirements
-[Node.js](https://nodejs.org/en/) Version v16.16.0
+[Node.js](https://nodejs.org/en/) v16.16.0
 
 ### Installation
 ```bash
