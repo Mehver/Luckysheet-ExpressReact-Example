@@ -30,13 +30,13 @@ class Luckysheet extends React.Component {
 
     render() {
         const luckyCss = {
-            margin: '0px',
-            padding: '0px',
+            margin: 0,
+            padding: 0,
             position: 'fixed',
-            left: '0px',
-            top: '30px',
+            left: 0,
+            top: 30,
             width: '100%',
-            height: '100%',
+            height: window.innerHeight - 30,
         }
         return (
             <div
