@@ -11,10 +11,11 @@
 [Node.js](https://nodejs.org/en/) v16.16.0
 
 ### 安装依赖
+
 ```bash
-npm install
-npm install gulp -g
+npm install --legacy-peer-deps
 ```
+
 ### 启动服务器
 
 ```bash
@@ -26,7 +27,9 @@ npm start
 ```bash
 npm run react
 ```
+
 ### 前端编译
+
 ```bash
 npm run build
 ```
