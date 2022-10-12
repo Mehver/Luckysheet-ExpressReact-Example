@@ -11,10 +11,11 @@ A simple client with Express.js implementation for [Luckysheet](https://github.c
 [Node.js](https://nodejs.org/en/) v16.16.0
 
 ### Installation
+
 ```bash
-npm install
-npm install gulp -g
+npm install --legacy-peer-deps
 ```
+
 ### Start Server
 
 ```bash
@@ -22,10 +23,13 @@ npm start
 ```
 
 ### Frontend Development
+
 ```bash
 npm run react
 ```
+
 ### Frontend Compile
+
 ```bash
 npm run build
 ```
