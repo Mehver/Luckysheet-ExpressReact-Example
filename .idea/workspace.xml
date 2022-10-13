@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be72223d-f3a8-47c7-8c01-bd9f888a2fa7" name="Changes" comment="" />
+    <list default="true" id="be72223d-f3a8-47c7-8c01-bd9f888a2fa7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Luckysheet.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Luckysheet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/ToolBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/ToolBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/ToolBarCSS.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/ToolBarCSS.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +29,17 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="react" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -36,6 +52,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.react" />
       </list>
     </recent_temporary>
@@ -48,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665695787321</updated>
-      <workItem from="1665695788817" duration="467000" />
+      <workItem from="1665695788817" duration="1417000" />
     </task>
     <servers />
   </component>

@@ -77,14 +77,30 @@ class SaveData extends React.Component {
         return (
             <>
                 <div id="toolbar" style={ToolBarCSS.toolBarCss}>
-                    <p style={ToolBarCSS.titleCss}>Luckysheet-ExpressReact-Example&nbsp;v0.1.0</p>
-                    <icons.UndoOutlined id="toolbar-undoLoad" style={ToolBarCSS.undoLoadButtonCss} role='button'/>
-                    <icons.SaveOutlined id="toolbar-save" style={ToolBarCSS.saveButtonCss} role='button'/>
-                    <icons.RedoOutlined id="toolbar-redoLoad" style={ToolBarCSS.redoLoadButtonCss} role='button'/>
-                    <icons.CaretLeftOutlined id="toolbar-ctrlZ" style={ToolBarCSS.ctrlZButtonCss} role='button'/>
-                    <icons.CaretRightOutlined id="toolbar-ctrlY" style={ToolBarCSS.ctrlYButtonCss} role='button'/>
-                    <icons.UnorderedListOutlined id="toolbar-list" style={ToolBarCSS.listButtonCss} role='button'/>
-                    <icons.SettingOutlined id="toolbar-set" style={ToolBarCSS.setButtonCss} role='button'/>
+                    <p style={ToolBarCSS.titleCss}>Luckysheet-ExpressReact-Example&nbsp;v0.1.1</p>
+                </div>
+                <div id="buttonBar" style={ToolBarCSS.barCss}>
+                    <button id="toolbar-undoLoad" style={ToolBarCSS.buttonCss}>
+                        <icons.UndoOutlined style={ToolBarCSS.iconCss}/>
+                    </button>
+                    <button id="toolbar-save" style={ToolBarCSS.buttonCss}>
+                        <icons.SaveOutlined style={ToolBarCSS.iconCss}/>
+                    </button>
+                    <button id="toolbar-redoLoad" style={ToolBarCSS.buttonCss}>
+                        <icons.RedoOutlined style={ToolBarCSS.iconCss}/>
+                    </button>
+                    <button id="toolbar-ctrlZ" style={ToolBarCSS.buttonCss}>
+                        <icons.CaretLeftOutlined style={ToolBarCSS.iconCss}/>
+                    </button>
+                    <button id="toolbar-ctrlY" style={ToolBarCSS.buttonCss}>
+                        <icons.CaretRightOutlined style={ToolBarCSS.iconCss}/>
+                    </button>
+                    <button id="toolbar-list" style={ToolBarCSS.buttonCss}>
+                        <icons.UnorderedListOutlined style={ToolBarCSS.iconCss}/>
+                    </button>
+                    <button id="toolbar-set" style={ToolBarCSS.buttonCss}>
+                        <icons.SettingOutlined style={ToolBarCSS.iconCss}/>
+                    </button>
                 </div>
             </>
         )
