@@ -1,2 +1,2 @@
-/build linguist-detectable=false
-/public linguist-detectable=false
+./build linguist-detectable=false
+./public linguist-detectable=false
