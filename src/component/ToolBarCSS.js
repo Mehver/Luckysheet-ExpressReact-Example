@@ -11,21 +11,37 @@ export const titleCss = {
     color: '#fff',
     float: 'left',
     position: 'relative',
-    top: '-19px',
+    top: '-21px',
     left: '8px'
 }
-export const ButtonCss = {
-    position: 'relative',
-    top: '5px',
-    float: 'left',
-    width: '30px',
-    height: '30px',
-    fontSize: '20px'
+
+export const barCss = {
+    position: 'absolute',
+    top: '3.5px',
+    left: '400px',
+    height: '23px',
+    backgroundColor: '#abc',
+    overflow: 'hidden',
+};
+
+let width_button = 33;
+let iconSize = 16;
+if (window.innerWidth < 640) {
+    width_button = (window.innerWidth - 400) / 7;
+    iconSize = window.innerWidth / 34;
 }
-export const undoLoadButtonCss = Object.assign({left: `${15}px`}, ButtonCss)
-export const saveButtonCss = Object.assign({left: `${11}px`}, ButtonCss)
-export const redoLoadButtonCss = Object.assign({left: `${6}px`}, ButtonCss)
-export const ctrlZButtonCss = Object.assign({left: `${1}px`}, ButtonCss)
-export const ctrlYButtonCss = Object.assign({left: `${-9}px`}, ButtonCss)
-export const listButtonCss = Object.assign({left: `${-14}px`}, ButtonCss)
-export const setButtonCss = Object.assign({left: `${-15}px`}, ButtonCss)
+
+export const buttonCss = {
+    float: 'left',
+    cursor: 'pointer',
+    left: 15,
+    width: width_button,
+    backgroundColor: '#fff',
+    border: '2px solid #abc',
+    height: '23px',
+};
+
+export const iconCss = {
+    fontSize: iconSize,
+    color: '#abc',
+};

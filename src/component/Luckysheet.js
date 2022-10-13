@@ -22,7 +22,7 @@ class Luckysheet extends React.Component {
 
         }
         // if port is 3000 (React dev), do not loadUrl
-        if (port !== "3000") {
+        if (port !== "3000" && port !== "3001") {
             options["loadUrl"] = url; // 设定数据加载地址
         }
         luckysheet.create(options);
