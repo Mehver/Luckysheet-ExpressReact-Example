@@ -13,7 +13,7 @@ A simple client with Express.js implementation for [Luckysheet](https://github.c
 ### 2.1 Docker
 
 ```bash
-docker run -d -p 8000:8000 titanrgb/luckysheet-expressreact-example
+docker run -d -p 8000:8000 titanrgb/luckysheet-expressreact-example:v0.1.2
 ```
 
 ### 2.2 Node.js
