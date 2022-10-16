@@ -77,7 +77,7 @@ class SaveData extends React.Component {
         return (
             <>
                 <div id="toolbar" style={ToolBarCSS.toolBarCss}>
-                    <p style={ToolBarCSS.titleCss}>Luckysheet-ExpressReact-Example&nbsp;v0.1.1</p>
+                    <p style={ToolBarCSS.titleCss}>Luckysheet-ExpressReact-Example&nbsp;v0.1.2</p>
                 </div>
                 <div id="buttonBar" style={ToolBarCSS.barCss}>
                     <button id="toolbar-undoLoad" style={ToolBarCSS.buttonCss}>
