@@ -5,8 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README-zh.md" beforeDir="false" afterPath="$PROJECT_DIR$/README-zh.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/ToolBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/ToolBar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +70,7 @@
       <updated>1665695787321</updated>
       <workItem from="1665695788817" duration="1417000" />
       <workItem from="1665697274488" duration="1805000" />
-      <workItem from="1665903482246" duration="1530000" />
+      <workItem from="1665903482246" duration="2609000" />
     </task>
     <servers />
   </component>
