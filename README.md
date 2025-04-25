@@ -1,7 +1,4 @@
-# Luckysheet-ExpressReact-Example `v0.1.2`
-
-<a href='https://github.com/TitanRGB/Luckysheet-ExpressReact-Example'><img src="https://img.shields.io/badge/-GitHub-3A3A3A?style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a>
-<a href='https://hub.docker.com/repository/docker/titanrgb/luckysheet-expressreact-example'><img src="https://img.shields.io/badge/-DockerHub-1c90ed?style=flat&amp;logo=Docker&amp;logoColor=white" referrerpolicy="no-referrer" alt="DockerHub"></a>
+# Luckysheet-ExpressReact-Example
 
 English | [简体中文](https://github.com/TitanRGB/Luckysheet-ExpressReact-Example/blob/main/README.md)
 
@@ -51,6 +48,8 @@ npm run build
 
 ## 4 License
 
-MPL 2.0
+This project is released under the BSD 3-Clause License. Code may be reused with proper attribution.
 
-MIT Copyright (c) 2020-present, mengshukeji
+Copyright (c) 2022-Present, Mehver (https://github.com/Mehver). All rights reserved.
+
+All dependencies are open-source and licensed under permissive licenses. No copyleft (e.g., GPL, AGPL) components are included.
